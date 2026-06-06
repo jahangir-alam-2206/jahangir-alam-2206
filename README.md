@@ -1,11 +1,13 @@
-## Hi there 👋 I am Jahangir Alam
-Data Scientist | Machine Learning Engineer | Problem Solver
+## Hi there, I am Jahangir Alam
+   Data Scientist | Machine Learning Engineer | Problem Solver
+
+   Turning complex data into powerful insights and driving real-world impact through data-driven solutions
 <!--
 You can learn github here
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Data analisis project
+- 🔭 I’m currently working on Data analysis project
 - 🌱 I’m currently learning Data Science and Machine Learnibg
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
